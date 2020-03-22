@@ -1,0 +1,297 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "HTML is what type of language?",
+            "correct_answer": "Markup Language",
+            "incorrect_answers": [
+                "Macro Language",
+                "Programming Language",
+                "Scripting Language"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What amount of bits commonly equals one byte?",
+            "correct_answer": "8",
+            "incorrect_answers": [
+                "1",
+                "2",
+                "64"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.",
+            "correct_answer": "Binary",
+            "incorrect_answers": [
+                "JavaScript",
+                "C++",
+                "Python"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
+            "correct_answer": "Inkscape",
+            "incorrect_answers": [
+                "Paint.NET",
+                "GIMP",
+                "Adobe Photoshop"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "&quot;Windows NT&quot; is a monolithic kernel.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?",
+            "correct_answer": "Clipper Chip",
+            "incorrect_answers": [
+                "Enigma Machine",
+                "Skipjack",
+                "Nautilus"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the code name for the mobile operating system Android 7.0?",
+            "correct_answer": "Nougat",
+            "incorrect_answers": [
+                "Ice Cream Sandwich",
+                "Jelly Bean",
+                "Marshmallow"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "The open source program Redis is a relational database server.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+            "correct_answer": "&lt;marquee&gt;&lt;\/marquee&gt;",
+            "incorrect_answers": [
+                "&lt;scroll&gt;&lt;\/scroll&gt;",
+                "&lt;move&gt;&lt;\/move&gt;",
+                "&lt;slide&gt;&lt;\/slide&gt;"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In CSS, which of these values CANNOT be used with the &quot;position&quot; property?",
+            "correct_answer": "center",
+            "incorrect_answers": [
+                "static",
+                "absolute",
+                "relative"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+            "correct_answer": "Heartbleed",
+            "incorrect_answers": [
+                "Shellshock",
+                "Corrupted Blood",
+                "Shellscript"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?",
+            "correct_answer": "Green",
+            "incorrect_answers": [
+                "Red",
+                "Blue",
+                "Yellow"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In programming, the ternary operator is mostly defined with what symbol(s)?",
+            "correct_answer": "?:",
+            "incorrect_answers": [
+                "??",
+                "if then",
+                "?"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Early RAM was directly seated onto the motherboard and could not be easily removed.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How fast is USB 3.1 Gen 2 theoretically?",
+            "correct_answer": "10 Gb\/s",
+            "incorrect_answers": [
+                "5 Gb\/s",
+                "8 Gb\/s",
+                "1 Gb\/s"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "It&#039;s not possible to format a write-protected DVD-R Hard Disk.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these people was NOT a founder of Apple Inc?",
+            "correct_answer": "Jonathan Ive",
+            "incorrect_answers": [
+                "Steve Jobs",
+                "Ronald Wayne",
+                "Steve Wozniak"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The C programming language was created by this American computer scientist. ",
+            "correct_answer": "Dennis Ritchie",
+            "incorrect_answers": [
+                "Tim Berners Lee",
+                "al-Khw\u0101rizm\u012b",
+                "Willis Ware"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?",
+            "correct_answer": "Transport",
+            "incorrect_answers": [
+                "Session",
+                "Data link",
+                "Network"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Approximately how many Apple I personal computers were created?",
+            "correct_answer": "200",
+            "incorrect_answers": [
+                "100",
+                "500",
+                "1000"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In programming, what do you call functions with the same name but different implementations?",
+            "correct_answer": "Overloading",
+            "incorrect_answers": [
+                "Overriding",
+                "Abstracting",
+                "Inheriting"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How long is an IPv6 address?",
+            "correct_answer": "128 bits",
+            "incorrect_answers": [
+                "32 bits",
+                "64 bits",
+                "128 bytes"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What major programming language does Unreal Engine 4 use?",
+            "correct_answer": "C++",
+            "incorrect_answers": [
+                "Assembly",
+                "C#",
+                "ECMAScript"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the number of keys on a standard Windows Keyboard?",
+            "correct_answer": "104",
+            "incorrect_answers": [
+                "64",
+                "94",
+                "76"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What type of sound chip does the Super Nintendo Entertainment System (SNES) have?",
+            "correct_answer": "ADPCM Sampler",
+            "incorrect_answers": [
+                "FM Synthesizer",
+                "Programmable Sound Generator (PSG)",
+                "PCM Sampler"
+            ]
+        }
+    ]
+}

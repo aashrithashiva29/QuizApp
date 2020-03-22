@@ -1,0 +1,123 @@
+[
+    {
+        "question": "HTML is what type of language?",
+        "choice1": "Macro Language",
+        "choice2": "Programming Language",
+        "choice3": "Scripting Language",
+        "choice4": "Markup Language",
+        "answer": 4
+    },
+    {
+        "question": "What amount of bits commonly equals one byte?",
+        "choice1": "8 bits",
+        "choice2": "1 bit",
+        "choice3": "2 bits",
+        "choice4": "64 bits",
+        "answer": 1
+    },
+    {
+        "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
+        "choice1": "Inkscape",
+        "choice2": "Paint.NET",
+        "choice3": "GIMP",
+        "choice4": "Adobe Photoshop",
+        "answer": 1
+    },
+    {
+        "question": "What is the code name for the mobile operating system Android 7.0?",
+        "choice1": "Ice Cream Sandwich",
+        "choice2": "Jelly Bean",
+        "choice3": "Nougat",
+        "choice4": "Marshmallow",
+        "answer": 3
+    },
+    {
+        "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+        "choice1": "<scroll>",
+        "choice2": "<marquee>",
+        "choice3": "<move>",
+        "choice4": "<slide>",
+        "answer": 2
+    },
+    {
+        "question": "In CSS, which of these values CANNOT be used with the 'position' property?",
+        "choice1": "static",
+        "choice2": "absolute",
+        "choice3": "relative",
+        "choice4": "center",
+        "answer": 4
+    },
+    {
+        "question": "Which of these people was NOT a founder of Apple Inc?",
+        "choice1": "Steve Jobs",
+        "choice2": "Jonathan Ive",
+        "choice3": "Ronald Wayne",
+        "choice4": "Steve Wozniak",
+        "answer": 2
+    },
+    {
+        "question": "Who is the founder of WWW ?",
+        "choice1": "Tim Berners Lee",
+        "choice2": "Denis Ritchie",
+        "choice3": "Alan Turing",
+        "choice4": "Warren Buffet",
+        "answer": 2
+    },
+    {
+        "question": "In programming, what do you call functions with the same name but different implementations?",
+        "choice1": "Abstracting",
+        "choice2": "Overriding",
+        "choice3": "Overloading",
+        "choice4": "Inheriting",
+        "answer": 2
+    },
+    {
+        "question": "Which of the following command line environment is used for intracting with Git?",
+        "choice1": "Git Bash",
+        "choice2": "Git Hub",
+        "choice3": "Git Boot",
+        "choice4": "Git Lab",
+        "answer": 2
+    },
+    {
+        "question": "How long is IPv6 address?",
+        "choice1": "128 bytes",
+        "choice2": "32 bits",
+        "choice3": "128 bits",
+        "choice4": "64 bits",
+        "answer": 3
+    },
+    {
+        "question": " What major programming language does Unreal Engine 4 use?",
+        "choice1": "ECMAScript",
+        "choice2": "Java",
+        "choice3": "C++",
+        "choice4": "C",
+        "answer": 3
+    },
+    {
+        "question": "what does ECMA stands for?",
+        "choice1": "European Computer Manufacturer's Association",
+        "choice2": "European Computer Manufacturer's Assistance",
+        "choice3": "European Company Maintenance Association",
+        "choice4": "European Company Management Association",
+        "answer": 1
+    },
+    {
+        "question": "What is the number of keys on a standard Windows Keyboard?",
+        "choice1": 9,
+        "choice2": 64,
+        "choice3": 104,
+        "choice4": 84,
+        "answer": 3
+    },
+    {
+        "question": "What is the correct syntax to display “HelloWorld” in an alert box using JavaScript?",
+        "choice1": "alertbox(“HelloWorld”);",
+        "choice2": "msg(“HelloWorld”);",
+        "choice3": "msgbox(“HelloWorld”);",
+        "choice4": "alert(“HelloWorld”);",
+        "answer": 4
+    }
+   
+]
