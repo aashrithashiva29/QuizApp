@@ -61,7 +61,7 @@
         "choice2": "Denis Ritchie",
         "choice3": "Alan Turing",
         "choice4": "Warren Buffet",
-        "answer": 2
+        "answer": 1
     },
     {
         "question": "In programming, what do you call functions with the same name but different implementations?",
@@ -69,7 +69,7 @@
         "choice2": "Overriding",
         "choice3": "Overloading",
         "choice4": "Inheriting",
-        "answer": 2
+        "answer": 3
     },
     {
         "question": "Which of the following command line environment is used for intracting with Git?",
@@ -77,7 +77,7 @@
         "choice2": "Git Hub",
         "choice3": "Git Boot",
         "choice4": "Git Lab",
-        "answer": 2
+        "answer": 1
     },
     {
         "question": "How long is IPv6 address?",
